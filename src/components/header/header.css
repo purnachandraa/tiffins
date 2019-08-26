@@ -1,0 +1,28 @@
+.cnt{
+    box-sizing: border-box;
+    background-color: rgb(139, 200, 250);
+    color: black;
+    position: relative;
+    bottom: 40px;
+}
+.lists{
+    display: inline-flex;
+    padding-top:10px; 
+    
+}
+.head{
+    font-family: cursive;
+    margin: 8px 100px;
+    
+
+}
+.hme{
+    margin-top: 8px ;
+    margin-left: 100px;
+    margin-right: 30px;
+    float: right;
+}
+.hmee{
+    margin: 8px 30px;
+    float:right;
+}

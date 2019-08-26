@@ -1,0 +1,76 @@
+{
+    "foods": [
+        {
+            "id": 1,
+            "image": "dosa",
+            "name": "Dosa",
+            "quantity" :1,
+            "available": true,
+            "cost": 30
+        },
+        {
+            "id": 2,
+            "name": "Idly",
+            "image": "idly",
+            "quantity" :1,
+            "available": true,
+            "cost": 25
+        },
+        {
+            "id": 3,
+            "name": "Vada",
+            "image": "vada",
+            "quantity" :1,
+            "available": true,
+            "cost": 30
+        },
+        {
+            "id": 4,
+            "name": "egg-dosa",
+            "image": "egg-dosa",
+            "quantity" :1,
+            "available": true,
+            "cost": 35
+        },
+        {
+            "id": 5,
+            "name": "Poori",
+            "image": "poori",
+            "quantity" :1,
+            "available": true,
+            "cost": 30
+        },
+        {
+            "id": 6,
+            "name": "Parota",
+            "image": "parota",
+            "available": true,
+            "quantity" :1,
+            "cost": 35
+        },
+        {
+            "id": 7,
+            "name": "bonda",
+            "image": "mysur",
+            "quantity" :1,
+            "available": true,
+            "cost": 25
+        },
+        {
+            "id": 8,
+            "name": "uttapam",
+            "image": "uttapam1",
+            "quantity" :1,
+            "available": true,
+            "cost": 30
+        },
+        {
+            "id": 9,
+            "name": "Pesara-dosa",
+            "image": "pesara",
+            "quantity" :1,
+            "available": true,
+            "cost": 25
+        }
+    ]
+}

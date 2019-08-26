@@ -1,0 +1,20 @@
+.img1{
+    height: 100px;
+    width:  100%;
+    border-radius: 20px;
+
+}
+.crd{
+    margin-top: 20px;
+}
+.tab{
+    width: 100px;
+}
+.btnn{
+   position: relative;
+   left: 330px;
+   top: 10px;
+}
+.roww{
+border-bottom: 1px solid rgb(216, 211, 211);
+}
